@@ -1,2 +1,4 @@
 birinci 
 ikinci
+
+f2
